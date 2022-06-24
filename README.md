@@ -43,7 +43,7 @@ Kemudian buka file `views/artikel/admin_index.php` dan tambahkan dibawah deklara
 <br>
 
 Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya, maka tampilannya akan menjadi seperti dibawah ini : <br>
-![Gambar 1](screenshot/ss1.PNG) <br>
+![Gambar 1](screenshot/1.PNG) <br>
 
 ### 2. Membuat Pencarian
 
@@ -88,10 +88,10 @@ Lalu ubah link pager menjadi seperti dibawah ini : <br>
 <br>
 
 Selanjutnya buka kembali menu daftar artikel lakukan refresh pada halaman, maka akan muncul fitur search seperti dibawah ini : <br>
-![Gambar 2](screenshot/ss2.PNG) <br>
+![Gambar 2](screenshot/2.PNG) <br>
 
 Berikut adalah tampilan apabila fitur search digunakan : <br>
-![Gambar 4](screenshot/ss4.PNG) <br>
+![Gambar 4](screenshot/3.PNG) <br>
 
 ### 3. Membuat Fitur Upload Gambar
 
@@ -145,4 +145,4 @@ Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut :
 <br>
 
 Selanjutnya buka menu tambah artikel, maka tampilannya akan menjadi seperti dibawah ini : <br>
-![Gambar 3](screenshot/ss3.PNG) <br>
+![Gambar 3](screenshot/4.PNG) <br>
